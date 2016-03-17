@@ -1,0 +1,9 @@
+.navbar {
+	margin: 0;
+}
+
+.jumbotron{
+	text-aling: center;
+	background-image: url(../img/world.jpg);
+	background size: cover;
+}
